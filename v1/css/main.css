@@ -1,0 +1,11 @@
+body {
+    background-image: url("../img/metal-texture.png");
+}
+
+#logo {
+    width: 350px;
+}
+
+#logo:hover {
+    cursor: pointer;
+}
